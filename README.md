@@ -29,6 +29,7 @@ Each digest looks something like this:
 | A **Claude account** | Sign up free at [claude.ai](https://claude.ai). Web search and scheduled (automatic) runs may need a paid plan — check what your plan includes. |
 | **Your resume** | Any format: Word, PDF, or pasted text. |
 | **10–15 minutes** | One-time setup. |
+| **Python 3+** | Download free at [python.org](https://www.python.org/downloads/) to allow hosting on your PC/Mac|
 | *(Optional)* Google Sheets or Excel | To track applications with the included template. |
 
 ---
